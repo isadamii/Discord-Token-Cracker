@@ -1,4 +1,11 @@
-# READ IT!
+# Discord Token Cracker
+
+# SETUP
+
+1. Download or copy files needed (main.py & requirements.txt also proxies.txt even if your not using any proxies!)
+2. Install Requirements, open cmd in the folder directory & type "pip install -r requirements.txt"
+3. Run the file, open cmd again and type "py main.py"
+4. Enjoy! You will need to wait tho if your suffix length is more
 
 # Important Notice
 
